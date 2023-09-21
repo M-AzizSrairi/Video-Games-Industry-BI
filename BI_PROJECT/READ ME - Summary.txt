@@ -1,0 +1,18 @@
+Course : Business Intelligence & DataBase management System
+Project Title: Video Game Industry Analysis
+Who we are: We are Aziz Srairi & Rayen Fares Junior Students 
+majoring in BA and minoring in IT.
+What is this file: This .txt file is a summary of our project 
+that may help you to understand the folders' distribution.
+
+--------------------------------------------------------
+
+What you will find here?
+
+-Project Report (PDF format)
+-Dashboard (.pbix format)
+-Datasets used (csv & txt format)
+-Talend Jobs Screenshots
+-Others (containing other stuff used for the project)
+
+Thank you for your attention 
